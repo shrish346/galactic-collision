@@ -1,3 +1,3 @@
 # galactic-collision
 
-This is made by Chaemin and Shrish.
+This is made by Chaemin Lee and Shrish Kumar.
